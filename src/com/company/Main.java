@@ -8,6 +8,7 @@ public class Main {
 
         Reader [] arrayreader = new Reader[3];
 
+
         Reader reader = new Reader();
         reader.setShortNamestudent("Болатов Б.Б.");
         reader.setStudentDateOfBirth("01-01-1991");
